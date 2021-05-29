@@ -731,3 +731,35 @@ Received Import Request.
 Start importing Assets/New Material.mat using Guid(2cf09dd38466e4db5a3397ba8ed0c911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce032f81e056b2a793bd0f890bfb90e3') in 0.548377 seconds
   Import took 0.550840 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1091.885783 seconds.
+  path: Assets/Shaders/TextureMap.shader
+  artifactKey: Guid(19efc70d5d03e4ece91d4a66e35ee22f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/TextureMap.shader using Guid(19efc70d5d03e4ece91d4a66e35ee22f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53803f5b896cebcfd398a6349364c8ac') in 0.027901 seconds
+  Import took 0.049405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 170.679731 seconds.
+  path: Assets/Shaders/TextureMap.shader
+  artifactKey: Guid(19efc70d5d03e4ece91d4a66e35ee22f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/TextureMap.shader using Guid(19efc70d5d03e4ece91d4a66e35ee22f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7506df0b18878d2ccfae5b37d27435') in 0.036696 seconds
+  Import took 0.057309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 206.217749 seconds.
+  path: Assets/Shaders/Erosion.shader
+  artifactKey: Guid(4b05e5197c1d4499ca9b10d2b4bc6d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Erosion.shader using Guid(4b05e5197c1d4499ca9b10d2b4bc6d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487bacfb46f72e2d93c9db7c599a5dfc') in 0.005459 seconds
+  Import took 0.008462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.723057 seconds.
+  path: Assets/Shaders/Erosion.shader
+  artifactKey: Guid(4b05e5197c1d4499ca9b10d2b4bc6d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Erosion.shader using Guid(4b05e5197c1d4499ca9b10d2b4bc6d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b182ecf50cf412b033ce575757bd911') in 0.017923 seconds
+  Import took 0.038911 seconds .
+
